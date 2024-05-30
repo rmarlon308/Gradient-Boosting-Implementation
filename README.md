@@ -20,5 +20,9 @@ Both implementations yield similar results for classification and regression tas
   ![](GB_Comparison/output2.png)
 
 ### Regression:
+- **Data and Performance:**
+  - Mean Squere Error (MSE):
+    - Self Implementation: 3.243890
+    - Sklearn Implementation : 3.243842
   ![](GB_Comparison/output3.png)
 
