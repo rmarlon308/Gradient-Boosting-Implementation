@@ -13,7 +13,7 @@ This project features an implementation of the Gradient Boosting algorithm, an e
 Both implementations yield similar results for classification and regression tasks.
 
 ### Classification:
-- **Ground Truth:**  
+- **Data:**  
   ![](GB_Comparison/output.png)
 
 - **Performance:**  
